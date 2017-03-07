@@ -1,0 +1,26 @@
+非对称加密算法：
+	高级
+	双保险
+	公钥,私钥
+	DH(Diffie-Hellman)密钥交换算法
+	RSA-基于因子分解
+	ELGamal-基于离散对数
+	ECC(Elliption Cure Cryptography)-椭圆曲线加密
+	
+对称加密算法:
+	数据安全
+	密钥管理复杂
+	
+	
+数字签名算法:
+	签名
+	数字签名---带有密钥(公钥,私钥)的消息摘要算法
+	验证数据完整性,认证数据来源,抗否认
+	OSI参考模型
+	私钥签名,公钥验证
+	RSA,DSA,ECDSA	
+	
+	
+	DSS(Digital signature Standard)数字签名标准
+	DSA(Digital signature ALgorithm)数字签名算法
+	DSA仅包含数字签名
